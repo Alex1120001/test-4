@@ -1,0 +1,12 @@
+body, html{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+}
+.fon{
+    height: 100%;
+    width: 100%;
+    background-image: url('./img-1.jpg');
+    background-size: cover;
+}

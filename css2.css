@@ -1,0 +1,19 @@
+body{
+    width: 80%;
+    margin: auto;
+    text-align: center;
+}
+img{
+    float: right;
+}
+#second{
+    text-decoration: underline;
+}
+#first{
+    color:greenyellow;
+    text-decoration: underline;
+}
+#third span{
+    color:tomato;
+    font-style: italic;
+}
